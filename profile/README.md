@@ -27,6 +27,34 @@ We design and build **custom apps, websites, and systems** for brands and profes
 
 ---
 
+## 🤝 Trusted by *(selection)*
+
+Organizations our team has collaborated with through direct engagements and past roles:
+
+- e-Press Chile
+- Komatsu Cummins Chile  
+- Ministry of Health, Chile  
+- Ministry of Defense, Chile  
+- Herrera y Valdés Abogados  
+- Servitrans Chile  
+- CVMark Advertising  
+- Cooperativa Eléctrica Curicó  
+- School of Accountants and Auditors of Santiago  
+- Fundación Chile 21  
+- Fundación SIDA Chile  
+- Ciudad del Niño Foundation  
+- Invica Foundation  
+- Adelanta Chile  
+- Amanecer Corporation  
+- Instituto Libertad y Desarrollo  
+- Presidential Campaign of Alejandro Guillier  
+- Municipal Campaign of Helia Molina  
+- GPS Full  
+- Integral Chile  
+- Intertecno Valores  
+
+---
+
 ## 🛠️ Stack & tooling
 
 **Frontend**: Angular 18+, React, Tailwind, Animations  
@@ -35,19 +63,6 @@ We design and build **custom apps, websites, and systems** for brands and profes
 **Cloud**: AWS (Lambda, S3, RDS, CloudFront), Serverless Framework  
 **Data & AI**: Vector stores, RAG, model orchestration, evaluation harnesses  
 **Quality**: Clean Architecture, ADR logs, GitHub Actions, test suites, SAST/DAST
-
----
-
-## 📦 Selected in-house products (R&D)
-
-- **Wweefeel** — UGC community with moderation, reporting & emotion analytics  
-- **GES Tracker** — health workflows & guarantees monitoring (serverless)  
-- **Alma / Mood Coach AI** — guided journaling & emotional support (mobile)  
-- **AgroLiquid360** — traceability & ops dashboards for export workflows  
-- **Redactor24h / AulaNoticias** — assisted writing & classroom publishing  
-- **MetaFetch / Validators** — utility APIs (UUID/RUT) for developers
-
-*(Demos or private walkthroughs on request.)*
 
 ---
 
@@ -71,10 +86,18 @@ We design and build **custom apps, websites, and systems** for brands and profes
 
 ---
 
+## 👥 Team
+
+- **Daniel Fuentes** — Founder & Senior Software Engineer (18+ years). Architecture, backend, and product leadership.  
+- **Leandro Campillay** — Specialist in high-impact projects & crisis management (14+ years). Delivery operations and complex rollouts.  
+- **Claudia Hernández** — Psychologist (child & family) & narrative designer. UX research and emotional design for wellbeing-focused products.
+
+---
+
 ## 🌍 Languages & footprint
 
 We work in **English, Español, Italiano**.  
-Operating between **Chile (LATAM)** and **Italy (EU)**.
+Operating between **Italy (EU)** and **Chile (LATAM)**.
 
 ---
 
