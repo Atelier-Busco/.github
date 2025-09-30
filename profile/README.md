@@ -6,6 +6,14 @@ We design and build **custom apps, websites, and systems** for brands and profes
 
 ---
 
+## 👥 Team
+
+- **Daniel Fuentes** — Founder & Senior Software Engineer (18+ years). Architecture, backend, and product leadership.  
+- **Leandro Campillay** — Specialist in high-impact projects & crisis management (14+ years). Delivery operations and complex rollouts.  
+- **Claudia Hernández** — Psychologist (child & family) & narrative designer. UX research and emotional design for wellbeing-focused products.
+
+---
+
 ## 🧩 What we do
 
 - **Product Discovery & Strategy** — problem framing, roadmapping, success metrics  
@@ -141,14 +149,6 @@ Organizations our team has collaborated with through direct engagements and past
 3. **Build** — short sprints, weekly demos, CI/CD, usable increments  
 4. **Ship** — deploy, measure, and iterate with data  
 5. **Scale** — performance, cost, and reliability tuning with SLAs
-
----
-
-## 👥 Team
-
-- **Daniel Fuentes** — Founder & Senior Software Engineer (18+ years). Architecture, backend, and product leadership.  
-- **Leandro Campillay** — Specialist in high-impact projects & crisis management (14+ years). Delivery operations and complex rollouts.  
-- **Claudia Hernández** — Psychologist (child & family) & narrative designer. UX research and emotional design for wellbeing-focused products.
 
 ---
 
