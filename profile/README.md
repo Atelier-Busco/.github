@@ -55,6 +55,36 @@ Organizations our team has collaborated with through direct engagements and past
 
 ---
 
+## 📦 Products & Projects (selected)
+
+*A single view of what we’ve built and shipped over the years — client work, proprietary products, and R&D that graduated into usable tools.*
+
+- **Wweefeel** — UGC community with moderation, reporting & emotion analytics. *(Proprietary Product)*  
+- **GES Tracker** — health workflows & guarantees monitoring (serverless). *(Proprietary Product)*  
+- **Alma / Mood Coach AI** — guided journaling & emotional support (mobile). *(Proprietary Product)*  
+- **AgroLiquid360** — traceability & ops dashboards for export workflows. *(Proprietary Product)*  
+- **Redactor24h / AulaNoticias** — assisted writing & classroom publishing. *(Proprietary Product)*  
+- **MetaFetch / Validators** — developer utility APIs (UUID/RUT). *(Dev Tools)*
+- **Reclamos+ App** — citizen complaint management with traceable workflows and mobile-first UX. *(Product)*  
+- **SchoolBus App** — real-time school transportation monitoring for parents and admins. *(Client)*  
+- **ECO Machine App** — IoT platform for managing and reporting waste collection machines. *(Client/IoT)*  
+- **StopNow App** — remote vehicle immobilization via proprietary GPS integration. *(Client/IoT)*  
+- **GPS Full** — vehicle tracking and logistics optimization platform. *(Client)*  
+- **Smart Waste GPS System** — GPS + IoT monitoring for garbage trucks and routes. *(Client/IoT)*  
+- **Custom AVL Platform** — real-time tracking, route management, and alerting. *(Client/Platform)*  
+- **Election Maps & Voter Heatmaps** — geographic voter insights for campaigns. *(Civic Tech)*  
+- **State Indicators Dashboard** — visualization of key government metrics. *(GovTech)*  
+- **Social Media Monitoring System** — real-time trend detection and analytics. *(Analytics)*  
+- **eLearning Platforms** — online training, course tracking, and certification. *(EdTech)*  
+- **Mining Truck Repair Tracker** — maintenance registration and follow-up for heavy-duty fleets. *(Industry)*  
+- **Custom ERP for Servitrans Chile** — operations system with GPS, invoicing, and logistics. *(ERP)*  
+- **Campaign & NGO Tools** — web/mobile platforms for presidential & municipal campaigns. *(Civic Tech)*  
+- **Government Platforms** — internal systems and dashboards for ministries & public institutions. *(GovTech)*  
+
+> Some items are under NDA. Case studies and private demos available on request.
+
+---
+
 ## 🛠️ Stack & tooling
 
 **Frontend**: Angular 18+, React, Tailwind, Animations  
