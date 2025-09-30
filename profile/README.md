@@ -68,14 +68,14 @@ Organizations our team has collaborated with through direct engagements and past
 *A single view of what we’ve built and shipped over the years — client work, proprietary products, and R&D that graduated into usable tools.*
 
 - **Wweefeel** — UGC community with moderation, reporting & emotion analytics. *(Proprietary Product)*
-- **Aula Noticias:** — AI-powered news generation platform with age-adapted educational resources.   
+- **AulaNoticias** — AI-powered news generation platform with age-adapted educational resources. *(Proprietary Product)*  
 - **GES Tracker** — health workflows & guarantees monitoring (serverless). *(Proprietary Product)*  
 - **Alma / Mood Coach AI** — guided journaling & emotional support (mobile). *(Proprietary Product)*
-- **Clito Gallery** — visibility gallery about the clitoris, for client Las Clito.
-- **Observatorio de Medios** — media truthfulness and quality observatory platform.  
-- **Seguimiento Legislativo** — platform to track and analyze Chilean congressional bills. 
+- **Clito Gallery** — visibility gallery about the clitoris, for client Las Clito. *(Client)*
+- **Observatorio de Medios** — media truthfulness and quality observatory platform. *(Analytics/Media)*  
+- **Seguimiento Legislativo** — platform to track and analyze Chilean congressional bills. *(GovTech/Civic Tech)*
 - **AgroLiquid360** — traceability & ops dashboards for export workflows. *(Proprietary Product)*
-- **Keep my Block** — world map tile marketplace/platform.  
+- **Keep My Block** — world map tile marketplace/platform. *(Proprietary Product/Marketplace)*  
 - **Redactor24h / AulaNoticias** — assisted writing & classroom publishing. *(Proprietary Product)*  
 - **MetaFetch / Validators** — developer utility APIs (UUID/RUT). *(Dev Tools)*
 - **Reclamos+ App** — citizen complaint management with traceable workflows and mobile-first UX. *(Product)*  
@@ -109,7 +109,8 @@ Organizations our team has collaborated with through direct engagements and past
 - **civspa.cl** — client CIV SpA (we built their website).  
 - **daniabarza.com** — official website for singer–songwriter Dania Abarza, based in Mexico.  
 - **econote.cl** — client Econote; computer repair specialists (Apple) — we built their website.  
-- **feye.cl** — client FEYE SpA; renewable energy law firm — we built their website.   
+- **feye.cl** — client FEYE SpA; renewable energy law firm — we built their website.  
+  
 ---
 
 ## 🛠️ Stack & tooling
