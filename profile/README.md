@@ -1,40 +1,70 @@
 # Atelier Busco
 
-**Boutique studio crafting bespoke digital products — _crafted code, human experience_.**
+**Strategic technical partner for founders and innovation leaders.**
+We architect and build scalable **SaaS**, **AI-powered products**, and **LTV-driven platforms**.
 
-We design and build **custom apps, websites, and systems** for brands and professionals who value precision, beauty, and intent. Senior-only talent, small-batch delivery, measurable outcomes.
+_crafted code, human experience_
 
 ---
 
 ## 👥 Team
 
-- **Daniel Fuentes** — Founder & Senior Software Engineer (18+ years). Architecture, backend, and product leadership.  
-- **Leandro Campillay** — Specialist in high-impact projects & crisis management (14+ years). Delivery operations and complex rollouts.  
-- **Claudia Hernández** — Psychologist (child & family) & narrative designer. UX research and emotional design for wellbeing-focused products.
+-   **Daniel Fuentes** — Founder & Senior Software Engineer (18+ years). Architecture, backend, and product leadership.
+-   **Leandro Campillay** — Specialist in high-impact projects & crisis management (14+ years). Delivery operations and complex rollouts.
+-   **Claudia Hernández** — Psychologist (child & family) & narrative designer. UX research and emotional design for wellbeing-focused products.
 
 ---
 
-## 🧩 What we do
+## 🚀 Our Methodology (What We Do)
 
-- **Product Discovery & Strategy** — problem framing, roadmapping, success metrics  
-- **Design** — UX flows, UI systems, micro-interactions, design tokens  
-- **Build** — Web (Angular/React), Mobile (Flutter), Backend (Node/NestJS, FastAPI)  
-- **Data & AI** — LLM integrations, prompt/agent design, content pipelines  
-- **Cloud & DevOps** — AWS serverless (Lambda, API Gateway, S3, RDS), CI/CD, IaC  
-- **Support & Scale** — performance, observability, SLAs, security & compliance
+We are a high-impact technical partner. Our methodology is designed to de-risk your investment and maximize your product's Lifetime Value (LTV).
+
+-   **1. Discovery Workshop (Strategy):** A 2-week sprint to de-risk your project. We define the business problem, user flow, and technical architecture *before* writing the first line of code.
+-   **2. Scalable MVP (SaaS in 90 Days):** We build your product's v1.0. This is not a throwaway prototype; it's your business's foundation (built on NestJS/Flutter) and ready to scale.
+-   **3. AI Ecosystem (Orchestration):** We don't just integrate AI, we orchestrate it. We implement our `Prompt Engine API` and `Memory Service` to build AI that learns, is secure, and is governable.
+-   **4. Strategic Partnership (Fractional CTO):** We provide architecture leadership, technical roadmapping, and team enablement to help you make the right long-term decisions.
 
 ---
+
 
 ## 🎯 Why clients choose us
 
-- **Senior-only team** — no hand-offs, no learning on your dime  
-- **Small-batch, high-touch** — we ship in focused, 2–3 week sprints  
-- **Design × Engineering** — elegant interfaces backed by robust architecture  
-- **Transparency by default** — ADRs, checklists, demo videos, and live dashboards  
-- **Privacy-first** — GDPR-aware data handling, least-privilege, secure defaults
+-   **Senior-only team** — no hand-offs, no learning on your dime
+-   **Small-batch, high-touch** — we ship in focused, 2–3 week sprints
+-   **Design × Engineering** — elegant interfaces backed by robust architecture
+-   **Transparency by default** — ADRs, checklists, demo videos, and live dashboards
+-   **Privacy-first** — GDPR-aware data handling, least-privilege, secure defaults
+
+---
+## 🛠️ Stack & tooling
+
+**Frontend**: Angular 18+, React, Tailwind, Animations
+**Mobile**: Flutter (iOS/Android), Store ops (App Store / Play Store)
+**Backend**: Node.js (NestJS), FastAPI, REST, Webhooks
+**Cloud**: AWS (Lambda, S3, RDS, CloudFront), Serverless Framework
+**Data & AI**: Vector stores, RAG, our `Prompt Engine` & `Memory Service`
+**Quality**: Clean Architecture, ADR logs, GitHub Actions, test suites, SAST/DAST
 
 ---
 
+## 🤝 Engagement models
+
+-   **Discovery Workshop** — 2-week strategy-to-architecture sprint
+-   **Scalable MVP** — from discovery to a deployable v1.0 in ~90 days
+-   **Fractional CTO** — architecture, team enablement, vendor due diligence
+-   **Rescue Mission** — we stabilize, refactor, and get you shipping again
+-   **Care Plan** | Proactive maintenance, monitoring, and security updates
+
+---
+
+## 🧭 Our Working Principles
+
+-   **Strategy Before Code:** We de-risk your investment with a `Discovery Workshop` first.
+-   **Build for LTV:** We deliver your "Scalable MVP" (v1.0), not a throwaway prototype.
+-   **Orchestrate, Don't Just Integrate:** We build AI that *learns* (Memory Service) and is *governable* (Prompt Engine).
+-   **Clean Architecture = Lower Future Cost:** A clean backend (NestJS) and frontend (Flutter/Angular) reduces the cost of adding new features.
+
+---
 ## 🤝 Trusted by *(selection)*
 
 Organizations our team has collaborated with through direct engagements and past roles:
@@ -71,10 +101,13 @@ Organizations our team has collaborated with through direct engagements and past
 
 ---
 
-## 📦 Products & Projects (selected)
+## 🧱 Selected Work
 
 *A single view of what we’ve built and shipped over the years — client work, proprietary products, and R&D that graduated into usable tools.*
 
+- **B2B AI Assistant (AI + Ops):** A WhatsApp-based assistant that answers operational queries (e.g., account status) by integrating directly with a client's ERP.
+- **AI Ecosystem (Core Infra):** Our proprietary `Prompt Engine API` and `Memory Service` that power all our AI applications.
+- **Strategic Survey Platform (SaaS B2B):** A custom SaaS for collecting and analyzing reputational risk data.
 - **Wweefeel** — UGC community with moderation, reporting & emotion analytics. *(Proprietary Product)*
 - **AulaNoticias** — AI-powered news generation platform with age-adapted educational resources. *(Proprietary Product)*  
 - **GES Tracker** — health workflows & guarantees monitoring (serverless). *(Proprietary Product)*  
@@ -105,7 +138,6 @@ Organizations our team has collaborated with through direct engagements and past
 > Some items are under NDA. Case studies and private demos available on request.
 
 ---
-
 ## 🌐 Domains & Properties (Busco Web)
 
 - **atelierbusco.com** — main and official website of Atelier Busco.
@@ -121,49 +153,11 @@ Organizations our team has collaborated with through direct engagements and past
   
 ---
 
-## 🛠️ Stack & tooling
-
-**Frontend**: Angular 18+, React, Tailwind, Animations  
-**Mobile**: Flutter (iOS/Android), Store ops (App Store / Play Store)  
-**Backend**: Node.js (NestJS), FastAPI, REST, Webhooks  
-**Cloud**: AWS (Lambda, S3, RDS, CloudFront), Serverless Framework  
-**Data & AI**: Vector stores, RAG, model orchestration, evaluation harnesses  
-**Quality**: Clean Architecture, ADR logs, GitHub Actions, test suites, SAST/DAST
-
----
-
-## 🤝 Engagement models
-
-- **MVP Sprint** — from discovery to a clickable or deployable MVP  
-- **Build & Ship** — fixed-scope modules with clear milestones and pricing  
-- **Fractional CTO** — architecture, team enablement, vendor due diligence  
-- **Rescue Mission** — we stabilize, refactor, and get you shipping again  
-- **Care Plan** — proactive maintenance, monitoring, and security updates
-
----
-
-## 🧭 How we work
-
-1. **Scope** — goals, constraints, success metrics, and acceptance criteria  
-2. **Shape** — architecture & UX blueprint, delivery plan, risk register  
-3. **Build** — short sprints, weekly demos, CI/CD, usable increments  
-4. **Ship** — deploy, measure, and iterate with data  
-5. **Scale** — performance, cost, and reliability tuning with SLAs
-
----
 
 ## 🌍 Languages & footprint
 
-We work in **English, Español, Italiano**.  
+We work in **English, Español, Italiano**.
 Operating between **Italy (EU)** and **Chile (LATAM)**.
-
----
-
-## 🖋️ Philosophy
-
-> Good technology is invisible.  
-> Good design is intentional.  
-> Care is not optional.
 
 ---
 
@@ -171,7 +165,5 @@ Operating between **Italy (EU)** and **Chile (LATAM)**.
 
 Have a project, MVP, or platform that needs senior hands?
 
-- Website: **atelierbusco.com**  
-- Email: **info@atelierbusco.com**
-
-*Prefer a quick intro? Send a short brief and we’ll propose a 30-minute scoping call with next steps and a rough plan.*
+-   Website: **atelierbusco.com**
+-   Email: **info@atelierbusco.com**
