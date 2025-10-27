@@ -38,12 +38,12 @@ We are a high-impact technical partner. Our methodology is designed to de-risk y
 ---
 ## 🛠️ Stack & tooling
 
-**Frontend**: Angular 18+, React, Tailwind, Animations
-**Mobile**: Flutter (iOS/Android), Store ops (App Store / Play Store)
-**Backend**: Node.js (NestJS), FastAPI, REST, Webhooks
-**Cloud**: AWS (Lambda, S3, RDS, CloudFront), Serverless Framework
-**Data & AI**: Vector stores, RAG, our `Prompt Engine` & `Memory Service`
-**Quality**: Clean Architecture, ADR logs, GitHub Actions, test suites, SAST/DAST
+- **Frontend**: Angular 18+, React, Tailwind, Animations
+- **Mobile**: Flutter (iOS/Android), Store ops (App Store / Play Store)
+- **Backend**: Node.js (NestJS), FastAPI, REST, Webhooks
+- **Cloud**: AWS (Lambda, S3, RDS, CloudFront), Serverless Framework
+- **Data & AI**: Vector stores, RAG, our `Prompt Engine` & `Memory Service`
+- **Quality**: Clean Architecture, ADR logs, GitHub Actions, test suites, SAST/DAST
 
 ---
 
@@ -105,9 +105,9 @@ Organizations our team has collaborated with through direct engagements and past
 
 *A single view of what we’ve built and shipped over the years — client work, proprietary products, and R&D that graduated into usable tools.*
 
-- **B2B AI Assistant (AI + Ops):** A WhatsApp-based assistant that answers operational queries (e.g., account status) by integrating directly with a client's ERP.
-- **AI Ecosystem (Core Infra):** Our proprietary `Prompt Engine API` and `Memory Service` that power all our AI applications.
-- **Strategic Survey Platform (SaaS B2B):** A custom SaaS for collecting and analyzing reputational risk data.
+- **B2B AI Assistant** — A WhatsApp-based assistant that answers operational queries (e.g., account status) by integrating directly with a client's ERP. *(AI + Ops)*
+- **AI Ecosystem** — Our proprietary `Prompt Engine API` and `Memory Service` that power all our AI applications. *(Core Infra)*
+- **Strategic Survey Platform** — A custom SaaS for collecting and analyzing reputational risk data. *(SaaS B2B)*
 - **Wweefeel** — UGC community with moderation, reporting & emotion analytics. *(Proprietary Product)*
 - **AulaNoticias** — AI-powered news generation platform with age-adapted educational resources. *(Proprietary Product)*  
 - **GES Tracker** — health workflows & guarantees monitoring (serverless). *(Proprietary Product)*  
@@ -156,9 +156,8 @@ Organizations our team has collaborated with through direct engagements and past
 
 ## 🌍 Languages & footprint
 
-We work in **English, Español, Italiano**.
-
-Operating between **Italy (EU)** and **Chile (LATAM)**.
+- We work in **English, Español, Italiano**.
+- Operating between **Italy (EU)** and **Chile (LATAM)**.
 
 ---
 
