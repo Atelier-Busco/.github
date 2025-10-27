@@ -157,6 +157,7 @@ Organizations our team has collaborated with through direct engagements and past
 ## 🌍 Languages & footprint
 
 We work in **English, Español, Italiano**.
+
 Operating between **Italy (EU)** and **Chile (LATAM)**.
 
 ---
