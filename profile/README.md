@@ -9,8 +9,10 @@ _crafted code, human experience_
 
 ## 👥 Team
 
--   **Daniel Fuentes** — Founder & Senior Software Engineer (18+ years). Architecture, backend, and product leadership.
--   **Claudia Hernández** — Psychologist (child & family) & narrative designer. UX research and emotional design for wellbeing-focused products.
+- **Daniel Fuentes** — Founder & Senior Software Engineer (18+ years). Architecture, backend, and product leadership.
+- **Guillermo Hernandez** — IT Expert (20+ years). Infrastructure, enterprise integration, and technical operations.
+- **Nicolas Hervias** — Computer Engineer & Data Expert. Data pipelines, advanced analytics, and AI ingestion.
+- **Claudia Hernández** — Psychologist (child & family) & narrative designer. UX research and emotional design for wellbeing-focused products.
 
 ---
 
@@ -18,20 +20,39 @@ _crafted code, human experience_
 
 We are a high-impact technical partner. Our methodology is designed to reduce risk and maximize your product's Lifetime Value (LTV).
 
--   **1. Discovery Workshop (Strategy):** A 2-week sprint to validate your project. We define the business problem, user flow, and technical architecture before writing the first line of code.
--   **2. Scalable MVP (SaaS in 90 Days):** We build your product's v1.0. Not a throwaway prototype; your business's foundation, built on NestJS/Flutter and ready to scale.
--   **3. AI Ecosystem (Orchestration):** We don't just integrate AI, we orchestrate it. We implement our `Prompt Engine API` and `Memory Service` to build AI that learns, is secure, and is governable.
--   **4. Strategic Partnership (Fractional CTO):** Architecture leadership, technical roadmapping, and team enablement to help you make the right long-term decisions.
+- **1. Discovery Workshop (Strategy):** A 2-week sprint to validate your project. We define the business problem, user flow, and technical architecture before writing the first line of code.
+- **2. Scalable MVP (SaaS in 90 Days):** We build your product's v1.0. Not a throwaway prototype; your business's foundation, built on NestJS/Flutter and ready to scale.
+- **3. AI Ecosystem (Orchestration):** We don't just integrate AI, we orchestrate it. We implement our `Prompt Engine API` and `Memory Service` to build AI that learns, is secure, and is governable.
+- **4. Strategic Partnership (Fractional CTO):** Architecture leadership, technical roadmapping, and team enablement to help you make the right long-term decisions.
+
+---
+
+## 🧪 Atelier Labs (Internal R&D Wing)
+
+Innovation requires experimentation. Atelier Labs is our internal space for **learning in public**: trying ideas fast, documenting what works, and sharing useful building blocks. 
+
+**What lives here:**
+- **Prototypes & MVP spikes** (mobile/web/backends)
+- **Architecture trials** (serverless patterns, modular frontends, event-driven systems)
+- **AI/LLM experiments** (RAG, eval harnesses, prompt engineering, agents)
+- **Dev tooling** (CLIs, validators, code generators, CI/CD recipes)
+- **Data & dashboards** (ETL stubs, observability demos, cost monitors)
+- **Teaching assets** (sample apps, playgrounds, workshop material)
+
+**Stability & versioning:**
+- 🧪 **Lab** — unstable, breaking changes expected, minimal docs.
+- 🔬 **Incubating** — gaining traction, clearer API, basic docs & tests.
+- ✅ **Graduated** — stable and moved into our core production ecosystem.
 
 ---
 
 ## 🎯 Why clients choose us
 
--   **Senior-only team** — no hand-offs, no learning on your dime
--   **Small-batch, high-touch** — we ship in focused, 2-3 week sprints
--   **Design × Engineering** — elegant interfaces backed by robust architecture
--   **Transparency by default** — ADRs, checklists, demo videos, and live dashboards
--   **Privacy-first** — GDPR-aware data handling, least-privilege, secure defaults
+- **Senior-only team** — no hand-offs, no learning on your dime
+- **Small-batch, high-touch** — we ship in focused, 2-3 week sprints
+- **Design × Engineering** — elegant interfaces backed by robust architecture
+- **Transparency by default** — ADRs, checklists, demo videos, and live dashboards
+- **Privacy-first** — GDPR-aware data handling, least-privilege, secure defaults
 
 ---
 
@@ -48,20 +69,20 @@ We are a high-impact technical partner. Our methodology is designed to reduce ri
 
 ## 🤝 Engagement models
 
--   **Discovery Workshop** — 2-week strategy-to-architecture sprint
--   **Scalable MVP** — from discovery to a deployable v1.0 in ~90 days
--   **Fractional CTO** — architecture, team enablement, vendor due diligence
--   **Rescue Mission** — we stabilize, refactor, and get you shipping again
--   **Care Plan** — proactive maintenance, monitoring, and security updates
+- **Discovery Workshop** — 2-week strategy-to-architecture sprint
+- **Scalable MVP** — from discovery to a deployable v1.0 in ~90 days
+- **Fractional CTO** — architecture, team enablement, vendor due diligence
+- **Rescue Mission** — we stabilize, refactor, and get you shipping again
+- **Care Plan** — proactive maintenance, monitoring, and security updates
 
 ---
 
 ## 🧭 Our Working Principles
 
--   **Strategy Before Code:** We validate your investment with a Discovery Workshop first.
--   **Build for LTV:** We deliver your Scalable MVP (v1.0), not a throwaway prototype.
--   **Orchestrate, Don't Just Integrate:** We build AI that *learns* (Memory Service) and is *governable* (Prompt Engine).
--   **Clean Architecture = Lower Future Cost:** A clean backend (NestJS) and frontend (Flutter/Angular) reduces the cost of adding new features.
+- **Strategy Before Code:** We validate your investment with a Discovery Workshop first.
+- **Build for LTV:** We deliver your Scalable MVP (v1.0), not a throwaway prototype.
+- **Orchestrate, Don't Just Integrate:** We build AI that *learns* (Memory Service) and is *governable* (Prompt Engine).
+- **Clean Architecture = Lower Future Cost:** A clean backend (NestJS) and frontend (Flutter/Angular) reduces the cost of adding new features.
 
 ---
 
@@ -69,34 +90,41 @@ We are a high-impact technical partner. Our methodology is designed to reduce ri
 
 Organizations our team has collaborated with through direct engagements and past roles:
 
-- e-Press Chile
-- Psicóloga Claudia Hernández
-- NOWS
-- Herrera y Valdés Abogados
-- Las Clito
-- Dania Abarza
-- Econote
-- FEYE
-- CIV SpA
+- Copefrut S.A.
+- Cerámica Santiago
+- Sindicato de Trabajadores ENAP Refinería Aconcagua
+- Instituto Chileno Norteamericano de Cultura de Valparaíso
+- Instituto de Economía y Políticas Públicas
+- Instituto Milenio de Investigación en Riesgo Volcánico (CIGIDEN)
 - Komatsu Cummins Chile
-- Ministry of Health, Chile
-- Ministry of Defense, Chile
+- Ministry of Health (MINSAL, Chile)
+- Ministry of Defense (MINDEF, Chile)
 - Servitrans Chile
-- CVMark Advertising
 - Cooperativa Eléctrica Curicó
-- School of Accountants and Auditors of Santiago
-- Fundación Chile 21
+- Escuela de Contadores Auditores de Santiago
+- Fundación AGEA
+- Fundación Ciudad del Niño
+- Fundación Invica
 - Fundación SIDA Chile
-- Ciudad del Niño Foundation
-- Invica Foundation
-- Adelanta Chile
-- Amanecer Corporation
+- Fundación Chile 21
+- Corporación Amanecer
 - Instituto Libertad y Desarrollo
-- Presidential Campaign of Alejandro Guillier
-- Municipal Campaign of Helia Molina
-- GPS Full
+- e-Press Chile
+- Adelanta Chile
 - Integral Chile
 - Intertecno Valores
+- GPS Full
+- CVMark Advertising
+- NOWS
+- Herrera y Valdés Abogados
+- CIV SpA
+- FEYE
+- Econote
+- Las Clito
+- Dania Abarza
+- Psicóloga Claudia Hernández
+- Presidential Campaign of Alejandro Guillier
+- Municipal Campaign of Helia Molina
 
 ---
 
