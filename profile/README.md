@@ -1,9 +1,25 @@
 # Atelier Busco
 
-**Strategic technical partner for founders and innovation leaders.**
+**Strategic technical partner for founders and innovation leaders.**  
 We architect and build scalable **SaaS**, **AI-powered products**, and **LTV-driven platforms**.
 
+[![Angular 22](https://img.shields.io/badge/Angular-22%20Zoneless-DD0031?style=flat-square&logo=angular)](ARCHITECTURE.md)
+[![NestJS 11](https://img.shields.io/badge/NestJS-11%20Serverless-E0234E?style=flat-square&logo=nestjs)](ARCHITECTURE.md)
+[![AWS Cloud](https://img.shields.io/badge/Cloud-AWS%20Lambda-232F3E?style=flat-square&logo=amazon-aws)](ARCHITECTURE.md)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.4-3178C6?style=flat-square&logo=typescript)](ARCHITECTURE.md)
+[![Flutter](https://img.shields.io/badge/Flutter-Mobile-02569B?style=flat-square&logo=flutter)](ARCHITECTURE.md)
+
 _crafted code, human experience_
+
+---
+
+> [!NOTE]
+> ### 💡 Visiting from an Atelier Busco Proposal?
+> If you received a project proposal from us, this repository acts as our **public engineering proof of work**. Explore how we de-risk your software investment:
+> - 📐 **[Explore Production Case Studies & ROI](CASE_STUDIES.md)** — Architectural patterns and real business impact.
+> - 🔬 **[Understand Our 2-Week Discovery Sprint](DISCOVERY.md)** — How we define system specs and UI flows before writing code.
+> - 🏛️ **[Review Our Angular 22 & NestJS Standards](ARCHITECTURE.md)** — Zero-cruft, enterprise-grade architecture.
+> - 💬 **Ready to discuss your project?** Reach out directly at [info@atelierbusco.com](mailto:info@atelierbusco.com) or visit [atelierbusco.com](https://atelierbusco.com).
 
 ---
 
@@ -71,6 +87,8 @@ Innovation requires experimentation. Atelier Labs is our internal space for **le
 
 We believe in **learning in public** and maintaining transparent, production-grade engineering standards. Explore our core technical guidelines:
 
+- **[Architectural Case Studies & ROI](CASE_STUDIES.md)** — Production patterns, performance metrics, and business outcomes.
+- **[Discovery & Engagement Framework](DISCOVERY.md)** — 2-week Discovery Sprint, 90-day MVPs, and Fractional CTO engagement.
 - **[Public Architecture Standards](ARCHITECTURE.md)** — Angular 22 Zoneless CSR, NestJS Serverless, and cloud patterns.
 - **[Engineering Methodology](METHODOLOGY.md)** — Spec-Anchored development, 90-day MVPs, and transparent time audits.
 - **[Security Policy](SECURITY.md)** — Disclosure SLA, least-privilege principles, and zero-trust standards.
