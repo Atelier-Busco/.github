@@ -92,6 +92,7 @@ We believe in **learning in public** and maintaining transparent, production-gra
 - **[Public Architecture Standards](ARCHITECTURE.md)** — Angular 22 Zoneless CSR, NestJS Serverless, and cloud patterns.
 - **[Engineering Methodology](METHODOLOGY.md)** — Spec-Anchored development, 90-day MVPs, and transparent time audits.
 - **[Security Policy](SECURITY.md)** — Disclosure SLA, least-privilege principles, and zero-trust standards.
+- **[Open Source Contribution Guidelines](CONTRIBUTING.md)** — Pull Request standards, Angular 22 & NestJS strict boundaries.
 
 ---
 
