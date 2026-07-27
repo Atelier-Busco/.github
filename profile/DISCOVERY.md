@@ -30,3 +30,16 @@ Before initiating full-scale development, we run a focused **2-week Discovery Sp
 ### 3. Rescue & Modernization Sprint
 - **Target:** Existing projects stalled by technical debt, performance bottlenecks, or architectural flaws.
 - **Scope:** Codebase stabilization, refactoring to clean architecture, performance tuning, and test coverage enhancement.
+
+---
+
+## 📊 Engagement Comparison Matrix
+
+| Factor | Freelancers | Traditional Agency | In-House Hiring | **Atelier Busco (Senior Partner)** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Time to First Commit** | 1-2 weeks | 4-6 weeks | 2-3 months (Hiring cycle) | **Day 1 post-Discovery** |
+| **Architecture Quality** | Variable / Unpredictable | Mid-level / Project managers | High (if Senior hired) | **Enterprise-Grade (Angular 22 / NestJS)** |
+| **Business Alignment** | Task-focused | Hours-billed focused | Salary overhead | **LTV & ROI-Driven** |
+| **Code Ownership** | Standard | Often proprietary / Vendor lock-in | 100% Owned | **100% Client-Owned, Zero Lock-in** |
+| **AI Integration** | Basic API calls | Ad-hoc plugins | High learning curve | **Proprietary Prompt Engine & Memory Service** |
+

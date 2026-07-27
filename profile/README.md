@@ -209,16 +209,11 @@ Organizations our team has collaborated with through direct engagements and past
 
 ---
 
-## 🌍 Languages & footprint
-
-- We work in **English, Español, Italiano**.
-- Chilean roots. European craft. Global reach.
-
----
-
-## 📫 Let's talk
-
-Have a project, MVP, or platform that needs senior hands?
-
--   Website: **atelierbusco.com**
--   Email: **info@atelierbusco.com**
+> [!TIP]
+> ### 💬 Ready to Engineer Your Product?
+> Whether you need a **2-Week Discovery Workshop**, a **90-Day Scalable MVP**, or a **Fractional CTO**, our senior engineering team is ready to help.
+> 
+> - 🌐 **Website:** [atelierbusco.com](https://atelierbusco.com)
+> - ✉️ **Direct Email:** [info@atelierbusco.com](mailto:info@atelierbusco.com)
+> - 🌍 **Languages:** English, Español, Italiano (Chilean roots, European craft, Global reach)
+> - 🤝 **[Schedule a Discovery Call](DISCOVERY.md)**
