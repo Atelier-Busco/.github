@@ -58,12 +58,22 @@ Innovation requires experimentation. Atelier Labs is our internal space for **le
 
 ## 🛠️ Stack & tooling
 
-- **Frontend**: Angular 18+, React, Tailwind, Animations
+- **Frontend**: Angular 22 (Zoneless CSR, Signals), React, Tailwind, Animations
 - **Mobile**: Flutter (iOS/Android), Store ops (App Store / Play Store)
-- **Backend**: Node.js (NestJS), FastAPI, REST, Webhooks
+- **Backend**: Node.js (NestJS 11 Serverless), FastAPI, REST, Webhooks
 - **Cloud**: AWS (Lambda, S3, RDS, CloudFront), Serverless Framework
 - **Data & AI**: Vector stores, RAG, our `Prompt Engine` & `Memory Service`
 - **Quality**: Clean Architecture, ADR logs, GitHub Actions, test suites, SAST/DAST
+
+---
+
+## 🏛️ Engineering Standards & Public Documentation
+
+We believe in **learning in public** and maintaining transparent, production-grade engineering standards. Explore our core technical guidelines:
+
+- **[Public Architecture Standards](ARCHITECTURE.md)** — Angular 22 Zoneless CSR, NestJS Serverless, and cloud patterns.
+- **[Engineering Methodology](METHODOLOGY.md)** — Spec-Anchored development, 90-day MVPs, and transparent time audits.
+- **[Security Policy](SECURITY.md)** — Disclosure SLA, least-privilege principles, and zero-trust standards.
 
 ---
 
