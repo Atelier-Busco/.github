@@ -3,6 +3,8 @@
 **Strategic technical partner for founders and innovation leaders.**  
 We architect and build scalable **SaaS**, **AI-powered products**, and **LTV-driven platforms**.
 
+🌐 **[Versión en Español (Spanish Version)](es/README.md)**
+
 [![Angular 22](https://img.shields.io/badge/Angular-22%20Zoneless-DD0031?style=flat-square&logo=angular)](ARCHITECTURE.md)
 [![NestJS 11](https://img.shields.io/badge/NestJS-11%20Serverless-E0234E?style=flat-square&logo=nestjs)](ARCHITECTURE.md)
 [![AWS Cloud](https://img.shields.io/badge/Cloud-AWS%20Lambda-232F3E?style=flat-square&logo=amazon-aws)](ARCHITECTURE.md)
