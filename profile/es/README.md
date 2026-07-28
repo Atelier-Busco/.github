@@ -28,7 +28,7 @@ _código hecho a mano, experiencia humana_
 ## 👥 Equipo
 
 - **Daniel Fuentes** — Founder & Senior Software Engineer (18+ años). Arquitectura, backend y liderazgo de producto.
-- **Guillermo Hernandez** — Experto en TI (20+ años). Infraestructura, integración enterprise y operaciones técnicas.
+- **Guillermo Hernandez** — Experto en TI (25+ años). Infraestructura, integración enterprise y operaciones técnicas.
 - **Nicolas Hervias** — Ingeniero Civil en Informática & Experto en Datos. Pipelines de datos, analítica avanzada e ingesta de IA.
 - **Claudia Hernández** — Psicóloga (infanto-juvenil y familiar) & Diseñadora Narrativa. Investigación de UX y diseño emocional para productos de bienestar.
 

@@ -28,7 +28,7 @@ _crafted code, human experience_
 ## 👥 Team
 
 - **Daniel Fuentes** — Founder & Senior Software Engineer (18+ years). Architecture, backend, and product leadership.
-- **Guillermo Hernandez** — IT Expert (20+ years). Infrastructure, enterprise integration, and technical operations.
+- **Guillermo Hernandez** — IT Expert (25+ years). Infrastructure, enterprise integration, and technical operations.
 - **Nicolas Hervias** — Computer Engineer & Data Expert. Data pipelines, advanced analytics, and AI ingestion.
 - **Claudia Hernández** — Psychologist (child & family) & narrative designer. UX research and emotional design for wellbeing-focused products.
 
