@@ -34,13 +34,14 @@ _crafted code, human experience_
 
 **AgroControl** is our enterprise B2B suite engineered to resolve operational bottlenecks, manual data entry, and ERP disconnects across major agricultural exporters:
 
-* **Phase 1: B2B Supplier Portal (Live in Production):**
-  - **The Solution:** Bi-directional real-time API synchronization with **SAP S/4HANA** and Webpay transactional integration.
-  - **Measurable Impact:** Powers financial and logistics tracking for over **2,000 registered agricultural growers**, automating purchase orders, fruit deliveries, and settlement workflows.
+* **Phase 1: B2B Supplier Portal (Live in Production - Generating MRR):**
+  - **The Solution:** Bi-directional real-time API synchronization with **SAP S/4HANA** and Webpay transactional payment gateway.
+  - **Measurable Impact & Revenue:** A bootstrapped, revenue-generating B2B SaaS powering financial, delivery, and logistics tracking for over **2,000 registered agricultural growers**, with recurring contractual retainers and zero churn.
 * **Phase 2: Conversational AI Assistant (Roadmap):**
   - **Technology:** Embedded conversational interface powered by *Text-to-SQL* and RAG architectures, enabling suppliers to query payment schedules and settlement history in natural language without human intervention.
-* **Phase 3: Field Inspection Mobile App (Active Production):**
-  - **The Solution:** Native mobile app replacing manual field paperwork with **Audio-to-Text** capture. Natural Language Processing (NLP) parses agronomist voice reports into structured findings, agreements, and actionable metrics.
+* **Phase 3: Field Inspection Mobile App (Active Production - Generating MRR):**
+  - **The Solution:** Native mobile app replacing manual field paperwork with **Audio-to-Text** voice capture. Natural Language Processing (NLP) parses agronomist voice reports into structured findings, agreements, and actionable metrics.
+  - **Traction:** Operating under an active monthly maintenance and feature expansion retainer.
 * **Phase 4: Physical Automation DeepTech (Computer Vision):**
   - **The Solution:** Multimodal computer vision models (Meta SAM 3.1) and OCR deployed at reception yards to estimate fruit caliber, color, and volume directly from transport trucks with automated SAP ingestion.
 
@@ -59,12 +60,14 @@ We de-risk technical execution through early integration into top global enginee
 
 ---
 
-## 👥 Team
+## 👥 Team & Governance
 
-- **Daniel Fuentes** — Founder & Senior Software Engineer (18+ years). Architecture, backend, and product leadership.
-- **Guillermo Hernandez** — IT Expert (25+ years). Infrastructure, enterprise integration, and technical operations.
-- **Nicolas Hervias** — Computer Engineer & Data Expert. Data pipelines, advanced analytics, and AI ingestion.
-- **Claudia Hernández** — Psychologist (child & family) & narrative designer. UX research and emotional design for wellbeing-focused products.
+Our governance separates executive full-time technical leadership from specialized consulting partners and domain advisors:
+
+- **Daniel Fuentes** — Founder, CEO & Lead Software Engineer (18+ years, Full-Time). Software architecture, product direction, core backend engineering, and corporate execution.
+- **Guillermo Hernandez** — Senior IT & Infrastructure Advisor (25+ years, Consulting Partner). Enterprise integration, system resilience, and cloud infrastructure operations.
+- **Nicolas Hervias** — Data & AI Engineering Consulting Partner. Specialist in data pipelines, analytics infrastructure, and AI model ingestion.
+- **Claudia Hernández** — UX & Narrative Design Advisor (Child & Family Psychologist). Emotional design, user empathy frameworks, and qualitative UX research for wellbeing-focused products.
 
 ---
 
@@ -79,16 +82,15 @@ We are a high-impact technical partner. Our methodology is designed to reduce ri
 
 ---
 
-## 🧪 Atelier Labs (Internal R&D Wing)
+## 🧪 Atelier Labs (Internal R&D & Open Source Wing)
 
-Innovation requires experimentation. Atelier Labs is our internal space for **learning in public**: trying ideas fast, documenting what works, and sharing useful building blocks. 
+Innovation requires experimentation. Atelier Labs is our space for **learning in public**: trying ideas fast, publishing open-source tooling, and validating technical spikes before graduating them to production.
 
-**What lives here:**
-- **Prototypes & MVP spikes** (mobile/web/backends)
-- **Architecture trials** (serverless patterns, modular frontends, event-driven systems)
-- **AI/LLM experiments** (RAG, eval harnesses, prompt engineering, agents)
-- **Dev tooling** (CLIs, validators, code generators, CI/CD recipes)
-- **Data & dashboards** (ETL stubs, observability demos, cost monitors)
+**Open Source Toolkits & Public Showcases:**
+- **Developer Utility Suite:** Open-source developer toolkits, including Chilean RUT Generator/Validator API (`rut-validator-api`), Central Bank Economic Indicators (`chile-indicadores-economicos-daily`), SII Electronic Tax Simulators (`chile-boleta-honorarios-daily`), and SUBDERE Territorial Geodata (`cl-geo-chile-data`).
+- **GIS Routing & Spatial Pathfinder Lite:** Interactive in-browser Dijkstra and A* pathfinding over OpenStreetMap networks (`spatial-pathfinder-lite`).
+- **Production Architecture Blueprints:** Minimalist reference templates for Angular 22 Zoneless CSR (`atelier-angular-22-csr-template`) and NestJS 11 Serverless (`atelier-nestjs-serverless-template`).
+- **Experimental & Mobile Spikes:** *Echo Touch*, *Daily Mood*, *Keep it Running*, and early IoT vehicle tracking prototypes (*StopNow*).
 
 ---
 
@@ -180,22 +182,21 @@ Organizations our team has collaborated with through direct engagements and past
 
 ---
 
-## 🧱 Selected Work & IP Portfolio
+## 🧱 B2B IP Portfolio & Enterprise Platforms
 
-- **AgroControl Suite** — Flagship enterprise AgTech suite. B2B Supplier Portal live with SAP S/4HANA integration (2,000+ growers), Audio-to-Text field inspection app, and reception computer vision. *(Enterprise AgTech B2B)*
-- **Factor Adelanta** — Factoring management platform for SMEs. Invoice uploading, debtor tracking, advance calculation, and collection status. *(SaaS B2B)*
-- **Patriot News 24 & Redactor24h** — AI-driven digital news publishing platforms with automated ingest, editing, and distribution. *(MediaTech)*
-- **AulaNoticias** — AI-powered news generation platform with age-adapted educational resources. *(EdTech / MediaTech)*
-- **Observatorio de Medios & E-press** — Media truthfulness, press monitoring, and quality observatory platform. *(Analytics & Media)*
-- **Legislative Tracker** — Real-time tracking and analytical platform for Chilean congressional bills and voting records. *(GovTech / Civic Tech)*
-- **Reclamos+ App** — Citizen complaint management with traceable workflows and mobile-first UX. *(Civic Tech)*
-- **Clinical Loop & Salud Tracker** — Digital health workflow monitoring and patient tracking platforms. *(HealthTech)*
-- **B2B AI Assistant** — WhatsApp-based enterprise assistant for operational queries integrated directly with client ERPs. *(AI + Ops)*
-- **AI Ecosystem** — Proprietary `Prompt Engine API` and `Memory Service` for secure, stateful AI orchestration. *(Core Infra)*
-- **GES Tracker** — Public health workflows & guarantees monitoring (serverless). *(HealthTech)*
-- **Alma / Daily Mood** — Guided journaling and emotional wellbeing app developed with psychological frameworks. *(HealthTech / Mobile)*
-- **Echo Touch & Keep it Running** — Mobile utility and operational tracking applications. *(Utility)*
-- **Developer Utility Suite** — Public developer tools including Chilean RUT Generator/Validator, SII Tax Simulators, and CUT SUBDERE Geodata. *(Dev Tools)*
+*Commercial B2B products and mission-critical platforms designed, engineered, and packaged for long-term customer lifetime value (LTV).*
+
+- **AgroControl Suite** — Flagship enterprise AgTech suite. B2B Supplier Portal live with SAP S/4HANA integration (2,000+ growers, generating MRR), Audio-to-Text field inspection app, and reception computer vision. *(Enterprise AgTech B2B)*
+- **Factor Adelanta** — Factoring management platform for SMEs. Automated invoice discounting, debtor tracking, advance calculation, and collection status. *(SaaS B2B)*
+- **Patriot News 24 & Redactor24h** — Autonomous AI-driven digital news publishing and media generation platforms with automated editorial pipelines. *(MediaTech SaaS)*
+- **AulaNoticias** — AI-powered news platform generating age-adapted educational resources and student engagement tooling. *(EdTech / MediaTech B2B)*
+- **Observatorio de Medios & E-press** — Real-time media truthfulness monitoring, press clipping, and sentiment analytics platform. *(Media Intelligence & Analytics)*
+- **Legislative Tracker** — High-availability GovTech platform to track, parse, and analyze Chilean congressional bills, voting records, and committee reports. *(GovTech / Civic Tech)*
+- **Reclamos+ App** — Multi-channel citizen complaint management system with traceable resolution workflows and mobile-first UX. *(Civic Tech Platform)*
+- **Clinical Loop & Salud Tracker** — Digital health clinical workflows, triage monitoring, and patient tracking systems. *(HealthTech Enterprise)*
+- **B2B AI Operations Assistant** — WhatsApp-based enterprise assistant for operational queries integrated directly with client ERPs. *(Enterprise AI + Ops)*
+- **Core AI Ecosystem** — Proprietary `Prompt Engine API` and `Memory Service` for secure, stateful, and governable AI orchestration. *(Core AI Infrastructure)*
+- **GES Tracker** — Public health workflows, statutory guarantees, and SLA compliance monitoring in serverless cloud architecture. *(HealthTech Enterprise)*
 
 ---
 

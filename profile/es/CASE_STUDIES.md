@@ -18,7 +18,7 @@ Grandes exportadoras agrícolas sufrían cuellos de botella administrativos, dig
 - **Roadmap DeepTech de Visión Computacional:** Modelos multimodales de segmentación (Meta SAM 3.1) y OCR desplegados en clusters GPU para evaluación automatizada de fruta directamente en camiones en patios de recepción.
 
 ### 📈 Impacto en el Negocio
-- **Escala:** Operando en producción para más de **2.000 productores agrícolas registrados**.
+- **Escala & Tracción:** Operando en producción para más de **2.000 productores agrícolas registrados**, validado bajo modelo *bootstrapped* con Ingresos Recurrentes Mensuales (MRR) activos.
 - **Eficiencia Operativa:** Eliminación del 100% de llamadas y consultas rutinarias de pago a administración.
 - **Velocidad de Reportabilidad:** Reducción del **70% en el tiempo de emisión de informes agronómicos** gracias a la captura por voz, eliminando el reporte manual incompleto.
 

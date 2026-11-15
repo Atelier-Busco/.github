@@ -34,13 +34,14 @@ _código hecho a mano, experiencia humana_
 
 **AgroControl** es nuestra suite B2B enterprise diseñada para resolver cuellos de botella operativos, digitación manual y desconexión con los ERPs corporativos en grandes exportadoras agrícolas:
 
-* **Fase 1: Portal de Proveedores B2B (En Producción y Operando):**
+* **Fase 1: Portal de Proveedores B2B (En Producción y Facturando - Generando MRR):**
   - **Solución Técnica:** Integración bidireccional en tiempo real vía API con **SAP S/4HANA** e integración transaccional con Webpay.
-  - **Impacto Operativo:** Soporta a más de **2.000 productores agrícolas registrados** autogestionando órdenes de compra, recepciones de fruta y estados de pago.
+  - **Impacto y Tracción:** SaaS B2B transaccional validado bajo modelo *bootstrapped*, generando ingresos recurrentes mensuales (MRR) y gestionando operaciones en tiempo real para más de **2.000 productores agrícolas registrados** con cero rotación de clientes.
 * **Fase 2: Asistente IA Conversacional (Roadmap de Expansión):**
   - **Tecnología:** Asistente conversacional embebido basado en arquitecturas *Text-to-SQL* y RAG, permitiendo consultar estados de liquidación y pagos en lenguaje natural sin soporte humano.
-* **Fase 3: App Visita a Huerto (Operativa):**
+* **Fase 3: App Visita a Huerto (En Producción Activa - Generando MRR):**
   - **Solución Técnica:** Aplicación móvil nativa que sustituye el papeleo por captura **Audio-to-Text**. Modelos de Procesamiento de Lenguaje Natural (NLP) categorizan la voz del agrónomo en hallazgos, compromisos y métricas estructuradas.
+  - **Tracción:** Operando bajo contrato de soporte recurrente mensual para evolución y mantenimiento en faena.
 * **Fase 4: Automatización Física DeepTech (Visión Computacional):**
   - **Solución Técnica:** Cámaras orquestadas por modelos multimodales de visión computacional (Meta SAM 3.1) y OCR para estimar calibre, variedad, color y volumen directamente desde los camiones con inyección directa a SAP.
 
@@ -59,12 +60,14 @@ Mitigamos el riesgo de ingeniería integrándonos a los principales programas gl
 
 ---
 
-## 👥 Equipo
+## 👥 Equipo & Gobernanza
 
-- **Daniel Fuentes** — Founder & Senior Software Engineer (18+ años). Arquitectura, backend y liderazgo de producto.
-- **Guillermo Hernandez** — Experto en TI (25+ años). Infraestructura, integración enterprise y operaciones técnicas.
-- **Nicolas Hervias** — Ingeniero Civil en Informática & Experto en Datos. Data pipelines, analítica avanzada e ingesta de IA.
-- **Claudia Hernández** — Psicóloga (infanto-juvenil y familiar) & Diseñadora Narrativa. Investigación de UX y diseño emocional para productos de bienestar.
+Nuestra gobernanza distingue con transparencia el liderazgo ejecutivo técnico a tiempo completo de nuestros asesores y socios consultores especializados:
+
+- **Daniel Fuentes** — Fundador, CEO & Lead Software Engineer (18+ años, Tiempo Completo). Liderazgo de producto, arquitectura de software, ingeniería de backend y dirección corporativa.
+- **Guillermo Hernandez** — Asesor Senior de TI & Infraestructura (25+ años, Consulting Partner). Especialista en integración enterprise, resiliencia de sistemas y operaciones cloud.
+- **Nicolas Hervias** — Ingeniero Civil en Informática & Consulting Partner de Datos/IA. Especialista en pipelines de datos, analítica avanzada e ingesta de modelos de IA.
+- **Claudia Hernández** — Asesora de UX & Diseño Narrativo (Psicóloga Infanto-Juvenil y Familiar). Diseño emocional, marcos de empatía de usuario e investigación cualitativa de UX para productos de bienestar.
 
 ---
 
@@ -79,16 +82,15 @@ Somos un socio técnico de alto impacto. Nuestra metodología está diseñada pa
 
 ---
 
-## 🧪 Atelier Labs (Área Interna de I+D)
+## 🧪 Atelier Labs (Área Interna de I+D & Open Source)
 
-La innovación requiere experimentación. Atelier Labs es nuestro espacio interno para **aprender en público**: probar ideas rápido, documentar lo que funciona y compartir componentes reutilizables.
+La innovación requiere experimentación. Atelier Labs es nuestro espacio para **aprender en público**: probar ideas rápido, liberar utilidades de código abierto y validar spikes técnicos antes de graduarlos a producción.
 
-**Lo que vive aquí:**
-- **Prototipos y spikes de MVP** (móvil/web/backend)
-- **Pruebas de arquitectura** (patrones serverless, frontends modulares, sistemas orientados a eventos)
-- **Experimentos de IA/LLM** (RAG, arneses de evaluación, ingeniería de prompts, agentes)
-- **Herramientas de desarrollo** (CLIs, validadores, generadores de código, recetas CI/CD)
-- **Datos y dashboards** (ETL, demos de observabilidad, monitores de costo)
+**Herramientas Open Source & Showcases Públicos:**
+- **Suite de Utilitarios para Desarrolladores:** Librerías y APIs de código abierto, incluyendo la API Validador/Generador de RUT chileno (`rut-validator-api`), Visor de Indicadores del Banco Central (`chile-indicadores-economicos-daily`), Simulador de Boletas de Honorarios SII (`chile-boleta-honorarios-daily`) y Geodatos Territoriales SUBDERE (`cl-geo-chile-data`).
+- **Ruteo Espacial & Spatial Pathfinder Lite:** Motor de enrutamiento interactivo en navegador con algoritmos Dijkstra y A* sobre redes OpenStreetMap (`spatial-pathfinder-lite`).
+- **Blueprints de Arquitectura:** Plantillas base minimalistas para Angular 22 Zoneless CSR (`atelier-angular-22-csr-template`) y NestJS 11 Serverless (`atelier-nestjs-serverless-template`).
+- **Spikes Experimentales & Móviles:** *Echo Touch*, *Daily Mood*, *Keep it Running* y prototipos iniciales de rastreo vehicular IoT (*StopNow*).
 
 ---
 
@@ -180,22 +182,21 @@ Organizaciones con las que nuestro equipo ha colaborado a través de proyectos d
 
 ---
 
-## 🧱 Portafolio de Propiedad Intelectual & Proyectos
+## 🧱 Portafolio B2B de Propiedad Intelectual & Plataformas Enterprise
 
-- **AgroControl Suite** — Plataforma AgTech enterprise buque insignia. Portal de Proveedores B2B en producción con integración a SAP S/4HANA (más de 2.000 productores), App móvil con Audio-to-Text para visitas a huerto y automatización física en patios de recepción. *(AgTech B2B Enterprise)*
-- **Factor Adelanta** — Plataforma de gestión de factoring para PyMEs. Carga de facturas, seguimiento de deudores, cálculo de anticipos y cobranza. *(SaaS B2B)*
-- **Patriot News 24 & Redactor24h** — Medios digitales y plataformas de redacción automatizadas por pipelines de IA. *(MediaTech)*
-- **AulaNoticias** — Plataforma de generación de noticias con IA adaptadas a recursos educativos por edad. *(EdTech / MediaTech)*
-- **Observatorio de Medios & E-press** — Monitoreo de medios, análisis de veracidad y gestión de notas de prensa. *(Analytics / Media)*
-- **Seguimiento Legislativo (Legislative Tracker)** — Plataforma para rastrear y analizar proyectos de ley y votaciones en el Congreso Nacional de Chile. *(GovTech / Civic Tech)*
-- **Reclamos+ App** — Gestión ciudadana de reclamos con trazabilidad de flujos y UX móvil nativa. *(Civic Tech)*
-- **Clinical Loop & Salud Tracker** — Plataformas de monitoreo clínico y seguimiento de flujos de salud digital. *(HealthTech)*
-- **Asistente B2B de IA** — Asistente en WhatsApp para consultas operativas (estados de cuenta) integrado directamente al ERP del cliente. *(IA + Operaciones)*
-- **Ecosistema de IA** — Nuestro `Prompt Engine API` y `Memory Service` propios para orquestación de IA con persistencia de estado. *(Infraestructura Core)*
-- **GES Tracker** — Monitoreo de garantías y flujos de salud en arquitectura serverless. *(HealthTech)*
-- **Alma / Daily Mood** — Aplicación de journaling guiado y bienestar emocional desarrollada con fundamentos psicológicos. *(HealthTech / Mobile)*
-- **Echo Touch & Keep it Running** — Aplicaciones utilitarias móviles y seguimiento operativo. *(Utilidades)*
-- **Suite de Utilitarios para Desarrolladores** — Herramientas públicas de software libre (Validador/Generador de RUT chileno, Simuladores SII, Geodatos SUBDERE). *(Dev Tools)*
+*Productos comerciales B2B y plataformas de misión crítica diseñadas, empaquetadas y licenciadas para maximizar el Lifetime Value (LTV).*
+
+- **AgroControl Suite** — Plataforma AgTech enterprise buque insignia. Portal de Proveedores B2B en producción con integración a SAP S/4HANA (más de 2.000 productores, generando MRR), App móvil con Audio-to-Text para visitas a huerto y automatización física en patios de recepción. *(AgTech B2B Enterprise)*
+- **Factor Adelanta** — Plataforma SaaS de factoring para PyMEs. Anticipo automatizado de facturas, seguimiento de deudores, evaluación de riesgo y cobranza. *(SaaS B2B)*
+- **Patriot News 24 & Redactor24h** — Plataformas autónomas de generación y publicación digital de noticias impulsadas por pipelines de IA. *(MediaTech SaaS)*
+- **AulaNoticias** — Plataforma de noticias con IA orientada a generar recursos educativos adaptados por edad y herramientas docentes. *(EdTech / MediaTech B2B)*
+- **Observatorio de Medios & E-press** — Monitoreo de medios en tiempo real, análisis de veracidad y gestión de prensa. *(Media Intelligence & Analytics)*
+- **Seguimiento Legislativo (Legislative Tracker)** — Plataforma GovTech de alta disponibilidad para rastrear, procesar y analizar proyectos de ley, votaciones e informes del Congreso Nacional de Chile. *(GovTech / Civic Tech)*
+- **Reclamos+ App** — Sistema multicanal de gestión ciudadana de reclamos con trazabilidad de flujos y UX móvil nativa. *(Civic Tech Platform)*
+- **Clinical Loop & Salud Tracker** — Plataformas de monitoreo clínico, triage y seguimiento de flujos de salud digital. *(HealthTech Enterprise)*
+- **Asistente B2B de IA para Operaciones** — Asistente corporativo en WhatsApp para consultas operativas integrado directamente con ERPs. *(Enterprise AI + Ops)*
+- **Ecosistema de IA Core** — `Prompt Engine API` y `Memory Service` propios para orquestación de IA segura, gobernable y con persistencia de contexto. *(Infraestructura Core de IA)*
+- **GES Tracker** — Monitoreo de garantías estatales de salud y cumplimiento de SLAs sobre arquitectura serverless. *(HealthTech Enterprise)*
 
 ---
 

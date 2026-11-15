@@ -18,7 +18,7 @@ Large fruit exporters suffered from administrative bottlenecks, manual paperwork
 - **DeepTech Computer Vision Roadmap:** Multimodal segmentation models (Meta SAM 3.1) and OCR deployed on GPU clusters for automated truckload fruit evaluation at reception yards.
 
 ### 📈 Business Impact
-- **Scale:** Live in production powering over **2,000 registered agricultural suppliers**.
+- **Scale & Traction:** Live in production powering over **2,000 registered agricultural growers**, bootstrapped to active Monthly Recurring Revenue (MRR).
 - **Operational Cost:** Eliminated 100% of routine payment inquiry calls to administrative staff.
 - **Reporting Velocity:** Reduced agronomist field report turnaround by **70%** via voice capture, eliminating incomplete paperwork.
 
