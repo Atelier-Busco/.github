@@ -12,7 +12,7 @@ This document highlights real-world technical challenges solved by **Atelier Bus
 Large fruit exporters suffered from administrative bottlenecks, manual paperwork, and fragmented communication with external growers. Agricultural suppliers had zero real-time visibility into fruit delivery grades, purchase orders, and payment liquidations, creating high operational overhead and costly payment reconciliation errors.
 
 ### 🏗️ Technical Architecture
-- **ERP Integration:** Secure, bi-directional API synchronization with **SAP S/4HANA**, validated under our **SAP PartnerEdge Open Ecosystem (Build)** membership.
+- **ERP Integration:** Secure, bi-directional API synchronization with **SAP S/4HANA**, automating fruit orders, receipts, and settlements.
 - **Backend:** Node.js 22+ & NestJS modular API with Redis caching, transaction atomicity for Webpay integration, and automated webhook dispatchers.
 - **Mobile & Field Operations:** Native Flutter mobile application with offline-first synchronization and **Audio-to-Text NLP** for agronomist field visits, transforming dictation into structured reports.
 - **DeepTech Computer Vision Roadmap:** Multimodal segmentation models (Meta SAM 3.1) and OCR deployed on GPU clusters for automated truckload fruit evaluation at reception yards.

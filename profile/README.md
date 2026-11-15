@@ -8,7 +8,6 @@ We are a B2B DeepTech software engineering studio and digital product laboratory
 [![Node 22+](https://img.shields.io/badge/Node.js-22%2B%20LTS-339933?style=flat-square&logo=node.js)](ARCHITECTURE.md)
 [![Angular 22](https://img.shields.io/badge/Angular-22%20Zoneless-DD0031?style=flat-square&logo=angular)](ARCHITECTURE.md)
 [![NestJS 11](https://img.shields.io/badge/NestJS-11%20Serverless-E0234E?style=flat-square&logo=nestjs)](ARCHITECTURE.md)
-[![SAP PartnerEdge](https://img.shields.io/badge/SAP-PartnerEdge%20Build-0FAAFF?style=flat-square&logo=sap)](https://atelierbusco.com)
 [![AWS Partner](https://img.shields.io/badge/AWS-Partner%20Network-232F3E?style=flat-square&logo=amazon-aws)](https://atelierbusco.com)
 [![NVIDIA Inception](https://img.shields.io/badge/NVIDIA-Inception%20Program-76B900?style=flat-square&logo=nvidia)](https://atelierbusco.com)
 [![Microsoft Founders Hub](https://img.shields.io/badge/Microsoft-Founders%20Hub-00A4EF?style=flat-square&logo=microsoft)](https://atelierbusco.com)
@@ -50,7 +49,6 @@ _crafted code, human experience_
 
 We de-risk technical execution through early integration into top global engineering and cloud acceleration programs:
 
-* **SAP PartnerEdge Open Ecosystem (Build):** Certified partnership validating our capability to build, extend, and integrate deeply with **SAP S/4HANA** enterprise systems.
 * **Amazon Web Services (AWS):** Validated in the **AWS Partner Network** and **AWS Activate**, leveraging AWS Lambda, EC2 GPU clusters, and serverless backends.
 * **NVIDIA Inception:** Strategic program membership providing GPU acceleration and architecture support for our computer vision and multimodal models.
 * **Microsoft for Startups Founders Hub:** Active member with access to Azure cloud infrastructure, Azure OpenAI, and enterprise cloud tooling.

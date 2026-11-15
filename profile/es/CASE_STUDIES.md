@@ -12,7 +12,7 @@ Este documento destaca desafíos técnicos reales resueltos por **Atelier Busco 
 Grandes exportadoras agrícolas sufrían cuellos de botella administrativos, digitación manual en papel y desconexión con cientos de productores externos. Los proveedores no contaban con visibilidad en tiempo real de recepciones de fruta, órdenes de compra ni estados de liquidación, generando altos costos de gestión y reclamos financieros.
 
 ### 🏗️ Arquitectura Técnica
-- **Integración ERP:** Sincronización API bidireccional y segura con **SAP S/4HANA**, respaldada por nuestra alianza **SAP PartnerEdge Open Ecosystem (Build)**.
+- **Integración ERP:** Sincronización API bidireccional y segura con **SAP S/4HANA**, automatizando órdenes de compra, recepciones de fruta y liquidaciones.
 - **Backend:** API modular en Node.js 22+ y NestJS con caché en Redis, transacciones atómicas para pagos Webpay y despachadores automáticos de webhooks.
 - **Operaciones Móviles en Terreno:** Aplicación móvil nativa en Flutter con sincronización offline-first y procesamiento **Audio-to-Text con NLP** para visitas de agrónomos a huertos, transformando el dictado de voz en reportes técnicos estructurados.
 - **Roadmap DeepTech de Visión Computacional:** Modelos multimodales de segmentación (Meta SAM 3.1) y OCR desplegados en clusters GPU para evaluación automatizada de fruta directamente en camiones en patios de recepción.
