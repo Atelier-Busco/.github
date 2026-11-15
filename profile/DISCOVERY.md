@@ -1,6 +1,8 @@
 # 🤝 Discovery & Engagement Framework
 
-At Atelier Busco, we eliminate project risk before writing code. Our engagement models are structured to provide **predictable timelines**, **fixed budgets**, and **production-grade engineering**.
+At Atelier Busco SpA, we eliminate project risk before writing code. Our engagement models are structured to provide **predictable timelines**, **fixed budgets**, and **production-grade engineering**.
+
+🌐 **[Versión en Español (Spanish Version)](es/DISCOVERY.md)**
 
 ---
 
@@ -20,7 +22,7 @@ Before initiating full-scale development, we run a focused **2-week Discovery Sp
 
 ### 1. Scalable MVP (90-Day Sprint)
 - **Target:** Startups, founders, and innovation teams launching new SaaS products.
-- **Scope:** Full v1.0 product build (Web/Mobile + NestJS Serverless Backend + Database + Admin Panel + Authentication + Payment/Notification integration).
+- **Scope:** Full v1.0 product build (Web/Mobile + Node 22+ / NestJS Serverless Backend + Database + Admin Panel + Authentication + Payment/Notification integration).
 - **Cadence:** Bi-weekly demo releases with continuous staging access.
 
 ### 2. Fractional CTO & Architecture Leadership
@@ -38,7 +40,7 @@ Before initiating full-scale development, we run a focused **2-week Discovery Sp
 | Factor | Freelancers | Traditional Agency | In-House Hiring | **Atelier Busco (Senior Partner)** |
 | :--- | :--- | :--- | :--- | :--- |
 | **Time to First Commit** | 1-2 weeks | 4-6 weeks | 2-3 months (Hiring cycle) | **Day 1 post-Discovery** |
-| **Architecture Quality** | Variable / Unpredictable | Mid-level / Project managers | High (if Senior hired) | **Enterprise-Grade (Angular 22 / NestJS)** |
+| **Architecture Quality** | Variable / Unpredictable | Mid-level / Project managers | High (if Senior hired) | **Enterprise-Grade (Node 22+ / Angular 22 / NestJS)** |
 | **Business Alignment** | Task-focused | Hours-billed focused | Salary overhead | **LTV & ROI-Driven** |
 | **Code Ownership** | Standard | Often proprietary / Vendor lock-in | 100% Owned | **100% Client-Owned, Zero Lock-in** |
 | **AI Integration** | Basic API calls | Ad-hoc plugins | High learning curve | **Proprietary Prompt Engine & Memory Service** |

@@ -1,25 +1,26 @@
 # 🤝 Guía de Contribución Open Source
 
-¡Muchas gracias por considerar contribuir a los **repositorios y plantillas públicas de Atelier Busco**! Construimos software con precisión, claridad y rigor enterprise.
+¡Gracias por considerar contribuir a los **repositorios públicos y plantillas de Atelier Busco**! Construimos software con precisión, claridad y rigor de nivel enterprise.
 
 🌐 **[English Version](../CONTRIBUTING.md)**
 
 ---
 
-## 📐 Nuestras Expectativas de Ingeniería
+## 📐 Expectativas de Ingeniería
 
-1. **TypeScript Estricto & Estándar Standalone:**
-   - Proyectos web siguen patrones de **Angular 22 Zoneless** (Signals, Application Builder, sin `zone.js`).
-   - Proyectos Node.js siguen estándares modulares de **NestJS 11** con validación DTO obligatoria (`class-validator`) y decoradores de Swagger.
-2. **Cero Valores Hardcodeados:** Secretos, URLs y flags de entorno deben inyectarse mediante archivos `.env`.
-3. **Límites en Mensajes de Commit:**
-   - Formato estándar: `tipo: descripción breve en inglés` (ej: `fix: resolve token refresh race condition`).
-   - Nunca mezclar refactorizaciones con correcciones de errores en el mismo commit.
+1. **Línea Base de Runtime & TypeScript Estricto:**
+   - Todos los repositorios requieren **Node.js 22+ LTS** como entorno de ejecución mínimo.
+   - Los proyectos web siguen patrones de **Angular 22 Zoneless** (Signals, Application Builder, sin sobrecarga de `zone.js`).
+   - Los proyectos Node.js siguen estándares modulares de **NestJS 11 / Fastify** con validación DTO obligatoria (`class-validator`) y decoradores de Swagger OpenAPI.
+2. **Cero Valores Hardcodeados:** Secretos, URLs y parámetros de configuración deben inyectarse mediante variables `.env`.
+3. **Límite de Mensajes de Commit:**
+   - Formato estándar: `type: concise description in English` (ej. `fix: resolve token refresh race condition`).
+   - No mezclar refactorizaciones con corrección de errores en un mismo commit.
 
 ---
 
 ## 🔄 Flujo de Pull Requests
 
-1. Haz un Fork del repositorio y crea tu rama desde `main`.
-2. Asegúrate de que los unit tests pasen (`npm run test`) y el tipado sea limpio antes de enviar.
-3. Abre un Pull Request con una descripción clara del problema resuelto y su impacto técnico.
+1. Haz un fork del repositorio y crea tu rama de feature a partir de `main`.
+2. Asegura que los tests unitarios pasen (`npm run test`) y que el chequeo de tipos sea impecable antes de enviar.
+3. Abre un Pull Request describiendo con claridad el problema resuelto y el impacto técnico.

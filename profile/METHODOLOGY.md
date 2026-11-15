@@ -2,6 +2,8 @@
 
 We bridge the gap between product strategy and senior-level software engineering.
 
+🌐 **[Versión en Español (Spanish Version)](es/METHODOLOGY.md)**
+
 ---
 
 ## 🎯 1. Spec-Anchored Development

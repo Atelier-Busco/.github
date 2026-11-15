@@ -1,15 +1,19 @@
-# Atelier Busco
+# Atelier Busco SpA
 
 **Strategic technical partner for founders and innovation leaders.**  
-We architect and build scalable **SaaS**, **AI-powered products**, and **LTV-driven platforms**.
+We are a B2B DeepTech software engineering studio and digital product laboratory based in Santiago, Chile (Hub Ñuñoa). We build, package, and license scalable **B2B SaaS**, **AI-powered products**, and **LTV-driven enterprise platforms**.
 
 🌐 **[Versión en Español (Spanish Version)](es/README.md)**
 
+[![Node 22+](https://img.shields.io/badge/Node.js-22%2B%20LTS-339933?style=flat-square&logo=node.js)](ARCHITECTURE.md)
 [![Angular 22](https://img.shields.io/badge/Angular-22%20Zoneless-DD0031?style=flat-square&logo=angular)](ARCHITECTURE.md)
 [![NestJS 11](https://img.shields.io/badge/NestJS-11%20Serverless-E0234E?style=flat-square&logo=nestjs)](ARCHITECTURE.md)
-[![AWS Cloud](https://img.shields.io/badge/Cloud-AWS%20Lambda-232F3E?style=flat-square&logo=amazon-aws)](ARCHITECTURE.md)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.4-3178C6?style=flat-square&logo=typescript)](ARCHITECTURE.md)
-[![Flutter](https://img.shields.io/badge/Flutter-Mobile-02569B?style=flat-square&logo=flutter)](ARCHITECTURE.md)
+[![SAP PartnerEdge](https://img.shields.io/badge/SAP-PartnerEdge%20Build-0FAAFF?style=flat-square&logo=sap)](https://atelierbusco.com)
+[![AWS Partner](https://img.shields.io/badge/AWS-Partner%20Network-232F3E?style=flat-square&logo=amazon-aws)](https://atelierbusco.com)
+[![NVIDIA Inception](https://img.shields.io/badge/NVIDIA-Inception%20Program-76B900?style=flat-square&logo=nvidia)](https://atelierbusco.com)
+[![Microsoft Founders Hub](https://img.shields.io/badge/Microsoft-Founders%20Hub-00A4EF?style=flat-square&logo=microsoft)](https://atelierbusco.com)
+[![Apple Small Business](https://img.shields.io/badge/Apple-Store%20Partner-000000?style=flat-square&logo=apple)](https://atelierbusco.com)
+[![CSA STAR Level 1](https://img.shields.io/badge/Security-CSA%20STAR%20Level%201-003366?style=flat-square)](SECURITY.md)
 
 _crafted code, human experience_
 
@@ -18,10 +22,40 @@ _crafted code, human experience_
 > [!NOTE]
 > ### 💡 Visiting from an Atelier Busco Proposal?
 > If you received a project proposal from us, this repository acts as our **public engineering proof of work**. Explore how we de-risk your software investment:
-> - 📐 **[Explore Production Case Studies & ROI](CASE_STUDIES.md)** — Architectural patterns and real business impact.
+> - 🌾 **[Discover AgroControl Suite](#-flagship-product-agrocontrol-suite-agtech)** — Our flagship enterprise AgTech platform with SAP S/4HANA integration.
+> - 📐 **[Explore Production Case Studies & ROI](CASE_STUDIES.md)** — Architectural patterns and measurable business impact.
 > - 🔬 **[Understand Our 2-Week Discovery Sprint](DISCOVERY.md)** — How we define system specs and UI flows before writing code.
-> - 🏛️ **[Review Our Angular 22 & NestJS Standards](ARCHITECTURE.md)** — Zero-cruft, enterprise-grade architecture.
+> - 🏛️ **[Review Our Node 22+, Angular 22 & NestJS Standards](ARCHITECTURE.md)** — Zero-cruft, enterprise-grade architecture.
 > - 💬 **Ready to discuss your project?** Reach out directly at [info@atelierbusco.com](mailto:info@atelierbusco.com) or visit [atelierbusco.com](https://atelierbusco.com).
+
+---
+
+## 🌾 Flagship Product: AgroControl Suite (AgTech)
+
+**AgroControl** is our enterprise B2B suite engineered to resolve operational bottlenecks, manual data entry, and ERP disconnects across major agricultural exporters:
+
+* **Phase 1: B2B Supplier Portal (Live in Production):**
+  - **The Solution:** Bi-directional real-time API synchronization with **SAP S/4HANA** and Webpay transactional integration.
+  - **Measurable Impact:** Powers financial and logistics tracking for over **2,000 registered agricultural growers**, automating purchase orders, fruit deliveries, and settlement workflows.
+* **Phase 2: Conversational AI Assistant (Roadmap):**
+  - **Technology:** Embedded conversational interface powered by *Text-to-SQL* and RAG architectures, enabling suppliers to query payment schedules and settlement history in natural language without human intervention.
+* **Phase 3: Field Inspection Mobile App (Active Production):**
+  - **The Solution:** Native mobile app replacing manual field paperwork with **Audio-to-Text** capture. Natural Language Processing (NLP) parses agronomist voice reports into structured findings, agreements, and actionable metrics.
+* **Phase 4: Physical Automation DeepTech (Computer Vision):**
+  - **The Solution:** Multimodal computer vision models (Meta SAM 3.1) and OCR deployed at reception yards to estimate fruit caliber, color, and volume directly from transport trucks with automated SAP ingestion.
+
+---
+
+## 🤝 Strategic Alliances & Ecosystem Validations
+
+We de-risk technical execution through early integration into top global engineering and cloud acceleration programs:
+
+* **SAP PartnerEdge Open Ecosystem (Build):** Certified partnership validating our capability to build, extend, and integrate deeply with **SAP S/4HANA** enterprise systems.
+* **Amazon Web Services (AWS):** Validated in the **AWS Partner Network** and **AWS Activate**, leveraging AWS Lambda, EC2 GPU clusters, and serverless backends.
+* **NVIDIA Inception:** Strategic program membership providing GPU acceleration and architecture support for our computer vision and multimodal models.
+* **Microsoft for Startups Founders Hub:** Active member with access to Azure cloud infrastructure, Azure OpenAI, and enterprise cloud tooling.
+* **Apple Store Small Business Program:** Officially approved partner with optimized unit economics for iOS mobile deployments.
+* **Cloud Security Alliance (CSA STAR Level 1):** Listed on the CSA STAR Registry, upholding enterprise-grade cloud security and data protection standards.
 
 ---
 
@@ -36,11 +70,11 @@ _crafted code, human experience_
 
 ## 🚀 Our Methodology (What We Do)
 
-We are a high-impact technical partner. Our methodology is designed to reduce risk and maximize your product's Lifetime Value (LTV).
+We are a high-impact technical partner. Our methodology is designed to reduce risk and maximize your product's Lifetime Value (LTV):
 
 - **1. Discovery Workshop (Strategy):** A 2-week sprint to validate your project. We define the business problem, user flow, and technical architecture before writing the first line of code.
-- **2. Scalable MVP (SaaS in 90 Days):** We build your product's v1.0. Not a throwaway prototype; your business's foundation, built on NestJS/Flutter and ready to scale.
-- **3. AI Ecosystem (Orchestration):** We don't just integrate AI, we orchestrate it. We implement our `Prompt Engine API` and `Memory Service` to build AI that learns, is secure, and is governable.
+- **2. Scalable MVP (SaaS in 90 Days):** We build your product's v1.0. Not a throwaway prototype; your business's foundation, built on Node 22+ / NestJS / Flutter and ready to scale.
+- **3. AI Ecosystem (Orchestration):** We don't just integrate AI, we orchestrate it. We implement our `Prompt Engine API` and `Memory Service` alongside local open-weight models (Llama, SAM 3.1, Modal GPUs) to build AI that learns, is secure, and is governable.
 - **4. Strategic Partnership (Fractional CTO):** Architecture leadership, technical roadmapping, and team enablement to help you make the right long-term decisions.
 
 ---
@@ -55,65 +89,52 @@ Innovation requires experimentation. Atelier Labs is our internal space for **le
 - **AI/LLM experiments** (RAG, eval harnesses, prompt engineering, agents)
 - **Dev tooling** (CLIs, validators, code generators, CI/CD recipes)
 - **Data & dashboards** (ETL stubs, observability demos, cost monitors)
-- **Teaching assets** (sample apps, playgrounds, workshop material)
-
-**Stability & versioning:**
-- 🧪 **Lab** — unstable, breaking changes expected, minimal docs.
-- 🔬 **Incubating** — gaining traction, clearer API, basic docs & tests.
-- ✅ **Graduated** — stable and moved into our core production ecosystem.
 
 ---
 
-## 🎯 Why clients choose us
+## 🎯 Why Clients Choose Us
 
-- **Senior-only team** — no hand-offs, no learning on your dime
-- **Small-batch, high-touch** — we ship in focused, 2-3 week sprints
-- **Design × Engineering** — elegant interfaces backed by robust architecture
-- **Transparency by default** — ADRs, checklists, demo videos, and live dashboards
-- **Privacy-first** — GDPR-aware data handling, least-privilege, secure defaults
+- **Senior-only team** — no hand-offs, no junior learning on your dime
+- **Small-batch, high-touch** — focused 2-3 week sprints with bi-weekly staging builds
+- **DeepTech × Usability** — robust serverless architectures coupled with premium user interfaces
+- **Transparency by default** — ADRs, living specs (`CONTEXT.md` / `SPEC.md`), and auditable logs (`TIMELOG.md`)
+- **Zero Lock-in** — 100% clean code, client-owned IP, and zero proprietary lock-in
 
 ---
 
-## 🛠️ Stack & tooling
+## 🛠️ Stack & Tooling
 
-- **Frontend**: Angular 22 (Zoneless CSR, Signals), React, Tailwind, Animations
-- **Mobile**: Flutter (iOS/Android), Store ops (App Store / Play Store)
-- **Backend**: Node.js (NestJS 11 Serverless), FastAPI, REST, Webhooks
-- **Cloud**: AWS (Lambda, S3, RDS, CloudFront), Serverless Framework
-- **Data & AI**: Vector stores, RAG, our `Prompt Engine` & `Memory Service`
-- **Quality**: Clean Architecture, ADR logs, GitHub Actions, test suites, SAST/DAST
+- **Runtime Baseline**: **Node.js 22+ LTS** across all backend services, lambdas, and CLI tools
+- **Frontend**: Angular 22 (Zoneless CSR, Signals), React, Tailwind CSS, DevExtreme
+- **Mobile**: Flutter & Dart (iOS/Android), Apple Store Small Business Program optimized
+- **Backend & APIs**: Node.js 22+, NestJS 11, Fastify, TypeScript, C# / .NET, PHP, REST & Webhooks
+- **Databases & Spatial**: PostgreSQL with `pgvector` (RAG & semantic search) & `PostGIS` (geospatial), MySQL, MariaDB, SQL Server
+- **AI & DeepTech**: OpenAI API, open-weight models (Meta Llama, Meta SAM 3.1, Muse Glimmer/Spark), Modal GPU inference clusters, proprietary `Prompt Engine API` & `Memory Service`
+- **Cloud & DevOps**: Multicloud on AWS (Lambda, EC2 G5 GPU, S3, SQS, SES, RDS, CloudFront) & Microsoft Azure (App Service, Azure OpenAI), Docker, Nginx, PM2, Pino, Zod
+- **Security & Standards**: CSA STAR Registry (Level 1), OWASP Top 10, Zero-Trust, automated SAST/DAST
 
 ---
 
 ## 🏛️ Engineering Standards & Public Documentation
 
-We believe in **learning in public** and maintaining transparent, production-grade engineering standards. Explore our core technical guidelines:
+We believe in **learning in public** and maintaining transparent, production-grade engineering standards:
 
 - **[Architectural Case Studies & ROI](CASE_STUDIES.md)** — Production patterns, performance metrics, and business outcomes.
 - **[Discovery & Engagement Framework](DISCOVERY.md)** — 2-week Discovery Sprint, 90-day MVPs, and Fractional CTO engagement.
-- **[Public Architecture Standards](ARCHITECTURE.md)** — Angular 22 Zoneless CSR, NestJS Serverless, and cloud patterns.
+- **[Public Architecture Standards](ARCHITECTURE.md)** — Node 22+, Angular 22 Zoneless CSR, NestJS Serverless, and cloud patterns.
 - **[Engineering Methodology](METHODOLOGY.md)** — Spec-Anchored development, 90-day MVPs, and transparent time audits.
-- **[Security Policy](SECURITY.md)** — Disclosure SLA, least-privilege principles, and zero-trust standards.
+- **[Security Policy](SECURITY.md)** — CSA STAR compliance, disclosure SLA, and zero-trust guidelines.
 - **[Open Source Contribution Guidelines](CONTRIBUTING.md)** — Pull Request standards, Angular 22 & NestJS strict boundaries.
 
 ---
 
-## 🤝 Engagement models
+## 🤝 Engagement Models
 
 - **Discovery Workshop** — 2-week strategy-to-architecture sprint
 - **Scalable MVP** — from discovery to a deployable v1.0 in ~90 days
 - **Fractional CTO** — architecture, team enablement, vendor due diligence
-- **Rescue Mission** — we stabilize, refactor, and get you shipping again
-- **Care Plan** — proactive maintenance, monitoring, and security updates
-
----
-
-## 🧭 Our Working Principles
-
-- **Strategy Before Code:** We validate your investment with a Discovery Workshop first.
-- **Build for LTV:** We deliver your Scalable MVP (v1.0), not a throwaway prototype.
-- **Orchestrate, Don't Just Integrate:** We build AI that *learns* (Memory Service) and is *governable* (Prompt Engine).
-- **Clean Architecture = Lower Future Cost:** A clean backend (NestJS) and frontend (Flutter/Angular) reduces the cost of adding new features.
+- **Rescue Mission** — codebase stabilization, refactoring, and test coverage enhancement
+- **Care Plan** — proactive maintenance, SLA monitoring, and security patching
 
 ---
 
@@ -159,56 +180,36 @@ Organizations our team has collaborated with through direct engagements and past
 
 ---
 
-## 🧱 Selected Work
+## 🧱 Selected Work & IP Portfolio
 
-*A single view of what we've built and shipped over the years — client work, proprietary products, and R&D that graduated into usable tools.*
-
+- **AgroControl Suite** — Flagship enterprise AgTech suite. B2B Supplier Portal live with SAP S/4HANA integration (2,000+ growers), Audio-to-Text field inspection app, and reception computer vision. *(Enterprise AgTech B2B)*
 - **Factor Adelanta** — Factoring management platform for SMEs. Invoice uploading, debtor tracking, advance calculation, and collection status. *(SaaS B2B)*
-- **Patriot News 24** — Fully AI-driven digital news outlet. Content generation, editing, publishing, and distribution handled end-to-end by AI pipelines. *(Proprietary Product)*
-- **B2B AI Assistant** — A WhatsApp-based assistant that answers operational queries (e.g., account status) by integrating directly with a client's ERP. *(AI + Ops)*
-- **AI Ecosystem** — Our proprietary `Prompt Engine API` and `Memory Service` that power all our AI applications. *(Core Infra)*
-- **Strategic Survey Platform** — A custom SaaS for collecting and analyzing reputational risk data. *(SaaS B2B)*
-- **Wweefeel** — UGC community with moderation, reporting & emotion analytics. *(Proprietary Product)*
-- **AulaNoticias** — AI-powered news generation platform with age-adapted educational resources. *(Proprietary Product)*
-- **GES Tracker** — Health workflows & guarantees monitoring (serverless). *(Proprietary Product)*
-- **Alma / Mood Coach AI** — Guided journaling & emotional support (mobile). *(Proprietary Product)*
-- **Clito Gallery** — Visibility gallery about the clitoris, for client Las Clito. *(Client)*
-- **Observatorio de Medios** — Media truthfulness and quality observatory platform. *(Analytics/Media)*
-- **Seguimiento Legislativo** — Platform to track and analyze Chilean congressional bills. *(GovTech/Civic Tech)*
-- **AgroLiquid360** — Traceability & ops dashboards for export workflows. *(Proprietary Product)*
-- **Keep My Block** — World map tile marketplace/platform. *(Proprietary Product/Marketplace)*
-- **MetaFetch / Validators** — Developer utility APIs (UUID/RUT). *(Dev Tools)*
-- **Reclamos+ App** — Citizen complaint management with traceable workflows and mobile-first UX. *(Product)*
-- **SchoolBus App** — Real-time school transportation monitoring for parents and admins. *(Client)*
-- **ECO Machine App** — IoT platform for managing and reporting waste collection machines. *(Client/IoT)*
-- **StopNow App** — Remote vehicle immobilization via proprietary GPS integration. *(Client/IoT)*
-- **GPS Full** — Vehicle tracking and logistics optimization platform. *(Client)*
-- **Smart Waste GPS System** — GPS + IoT monitoring for garbage trucks and routes. *(Client/IoT)*
-- **Custom AVL Platform** — Real-time tracking, route management, and alerting. *(Client/Platform)*
-- **Election Maps & Voter Heatmaps** — Geographic voter insights for campaigns. *(Civic Tech)*
-- **State Indicators Dashboard** — Visualization of key government metrics. *(GovTech)*
-- **Social Media Monitoring System** — Real-time trend detection and analytics. *(Analytics)*
-- **eLearning Platforms** — Online training, course tracking, and certification. *(EdTech)*
-- **Mining Truck Repair Tracker** — Maintenance registration and follow-up for heavy-duty fleets. *(Industry)*
-- **Custom ERP for Servitrans Chile** — Operations system with GPS, invoicing, and logistics. *(ERP)*
-- **Campaign & NGO Tools** — Web/mobile platforms for presidential & municipal campaigns. *(Civic Tech)*
-- **Government Platforms** — Internal systems and dashboards for ministries & public institutions. *(GovTech)*
-
-> Some items are under NDA. Case studies and private demos available on request.
+- **Patriot News 24 & Redactor24h** — AI-driven digital news publishing platforms with automated ingest, editing, and distribution. *(MediaTech)*
+- **AulaNoticias** — AI-powered news generation platform with age-adapted educational resources. *(EdTech / MediaTech)*
+- **Observatorio de Medios & E-press** — Media truthfulness, press monitoring, and quality observatory platform. *(Analytics & Media)*
+- **Legislative Tracker** — Real-time tracking and analytical platform for Chilean congressional bills and voting records. *(GovTech / Civic Tech)*
+- **Reclamos+ App** — Citizen complaint management with traceable workflows and mobile-first UX. *(Civic Tech)*
+- **Clinical Loop & Salud Tracker** — Digital health workflow monitoring and patient tracking platforms. *(HealthTech)*
+- **B2B AI Assistant** — WhatsApp-based enterprise assistant for operational queries integrated directly with client ERPs. *(AI + Ops)*
+- **AI Ecosystem** — Proprietary `Prompt Engine API` and `Memory Service` for secure, stateful AI orchestration. *(Core Infra)*
+- **GES Tracker** — Public health workflows & guarantees monitoring (serverless). *(HealthTech)*
+- **Alma / Daily Mood** — Guided journaling and emotional wellbeing app developed with psychological frameworks. *(HealthTech / Mobile)*
+- **Echo Touch & Keep it Running** — Mobile utility and operational tracking applications. *(Utility)*
+- **Developer Utility Suite** — Public developer tools including Chilean RUT Generator/Validator, SII Tax Simulators, and CUT SUBDERE Geodata. *(Dev Tools)*
 
 ---
 
-## 🌐 Domains & Properties (Busco Web)
+## 🌐 Domains & Digital Properties
 
-- **atelierbusco.com** — main and official website of Atelier Busco.
-- **claudiahernandez.cl** — official website of Claudia Hernández (co-designed together).
-- **nows.cl** — client NOWS; business continuity services — we designed their website.
-- **lasclito.cl** — client Las Clito; organization focused on clitoris visibility (website).
-- **buscoweb.cl** — Atelier Busco's line offering website builds.
-- **civspa.cl** — client CIV SpA (we built their website).
-- **daniabarza.com** — official website for singer-songwriter Dania Abarza, based in Mexico.
-- **econote.cl** — client Econote; computer repair specialists (Apple) — we built their website.
-- **feye.cl** — client FEYE SpA; renewable energy law firm — we built their website.
+- **atelierbusco.com** — Main corporate portal of Atelier Busco SpA.
+- **buscoweb.cl** — Integrated digital product development line under Atelier Busco SpA.
+- **claudiahernandez.cl** — Official digital portal for psychologist Claudia Hernández.
+- **civspa.cl** — Corporate platform engineered for CIV SpA.
+- **nows.cl** — Platform built for NOWS business continuity services.
+- **lasclito.cl** — Visibility platform engineered for Las Clito.
+- **daniabarza.com** — Digital showcase for artist Dania Abarza.
+- **econote.cl** — Hardware repair and logistics platform for Econote.
+- **feye.cl** — Renewable energy legal portal for FEYE SpA.
 
 ---
 
