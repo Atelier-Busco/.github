@@ -13,6 +13,7 @@ Somos un estudio boutique de ingeniería de software DeepTech y laboratorio de p
 [![Microsoft Founders Hub](https://img.shields.io/badge/Microsoft-Founders%20Hub-00A4EF?style=flat-square&logo=microsoft)](https://atelierbusco.com)
 [![Apple Small Business](https://img.shields.io/badge/Apple-Store%20Partner-000000?style=flat-square&logo=apple)](https://atelierbusco.com)
 [![CSA STAR Level 1](https://img.shields.io/badge/Seguridad-CSA%20STAR%20Nivel%201-003366?style=flat-square)](SECURITY.md)
+[![Proveedor ANCI Chile](https://img.shields.io/badge/Ciberseguridad-Proveedor%20ANCI%20Chile-002B49?style=flat-square)](SECURITY.md)
 
 _código hecho a mano, experiencia humana_
 
@@ -53,6 +54,7 @@ Mitigamos el riesgo de ingeniería integrándonos a los principales programas gl
 * **NVIDIA Inception:** Programa estratégico que proporciona soporte de arquitectura y aceleración en hardware GPU para nuestros modelos de visión computacional e IA multimodal.
 * **Microsoft for Startups Founders Hub:** Acceso a infraestructura en Microsoft Azure, Azure OpenAI y herramientas cloud enterprise.
 * **Apple Store Small Business Program:** Programa oficial que optimiza la economía unitaria (15% de comisión) para despliegues móviles en iOS.
+* **Agencia Nacional de Ciberseguridad (ANCI, Chile):** Proveedor de tecnología y servicios de ciberseguridad registrado formalmente bajo la Ley Marco de Ciberseguridad (Ley N° 21.663) de Chile, garantizando cumplimiento normativo y rigurosos protocolos de defensa en profundidad.
 * **Cloud Security Alliance (CSA STAR Nivel 1):** Registrados en el CSA STAR Registry, garantizando estándares enterprise de seguridad y gobernanza en la nube.
 
 ---
