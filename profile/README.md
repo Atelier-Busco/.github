@@ -39,9 +39,8 @@ _crafted code, human experience_
   - **Measurable Impact & Revenue:** A bootstrapped, revenue-generating B2B SaaS powering financial, delivery, and logistics tracking for over **2,000 registered agricultural growers**, with recurring contractual retainers and zero churn.
 * **Phase 2: Conversational AI Assistant (Roadmap):**
   - **Technology:** Embedded conversational interface powered by *Text-to-SQL* and RAG architectures, enabling suppliers to query payment schedules and settlement history in natural language without human intervention.
-* **Phase 3: Field Inspection Mobile App (Active Production - Generating MRR):**
-  - **The Solution:** Native mobile app replacing manual field paperwork with **Audio-to-Text** voice capture. Natural Language Processing (NLP) parses agronomist voice reports into structured findings, agreements, and actionable metrics.
-  - **Traction:** Operating under an active monthly maintenance and feature expansion retainer.
+* **Phase 3: Field Inspection Mobile App (In Development / Field Pilot):**
+  - **The Solution:** Native mobile app replacing manual field paperwork with **Audio-to-Text** voice capture. Natural Language Processing (NLP) parses agronomist voice reports into structured findings, agreements, and actionable metrics without manual keyboard typing.
 * **Phase 4: Physical Automation DeepTech (Computer Vision):**
   - **The Solution:** Multimodal computer vision models (Meta SAM 3.1) and OCR deployed at reception yards to estimate fruit caliber, color, and volume directly from transport trucks with automated SAP ingestion.
 

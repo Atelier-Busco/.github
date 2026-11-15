@@ -39,9 +39,8 @@ _código hecho a mano, experiencia humana_
   - **Impacto y Tracción:** SaaS B2B transaccional validado bajo modelo *bootstrapped*, generando ingresos recurrentes mensuales (MRR) y gestionando operaciones en tiempo real para más de **2.000 productores agrícolas registrados** con cero rotación de clientes.
 * **Fase 2: Asistente IA Conversacional (Roadmap de Expansión):**
   - **Tecnología:** Asistente conversacional embebido basado en arquitecturas *Text-to-SQL* y RAG, permitiendo consultar estados de liquidación y pagos en lenguaje natural sin soporte humano.
-* **Fase 3: App Visita a Huerto (En Producción Activa - Generando MRR):**
-  - **Solución Técnica:** Aplicación móvil nativa que sustituye el papeleo por captura **Audio-to-Text**. Modelos de Procesamiento de Lenguaje Natural (NLP) categorizan la voz del agrónomo en hallazgos, compromisos y métricas estructuradas.
-  - **Tracción:** Operando bajo contrato de soporte recurrente mensual para evolución y mantenimiento en faena.
+* **Fase 3: App Visita a Huerto (En Desarrollo / Piloto de Campo):**
+  - **Solución Técnica:** Aplicación móvil nativa que sustituye el papeleo por captura **Audio-to-Text**. Modelos de Procesamiento de Lenguaje Natural (NLP) categorizan la voz del agrónomo en hallazgos, compromisos y métricas estructuradas, eliminando la digitación manual en faena.
 * **Fase 4: Automatización Física DeepTech (Visión Computacional):**
   - **Solución Técnica:** Cámaras orquestadas por modelos multimodales de visión computacional (Meta SAM 3.1) y OCR para estimar calibre, variedad, color y volumen directamente desde los camiones con inyección directa a SAP.
 
